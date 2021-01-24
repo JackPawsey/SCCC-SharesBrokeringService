@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/C:/Users/Jack/Documents/NetBeansProjects/SharesBrokeringService/src/java/stocks.xsd" uri="src/conf/xml-resources/jaxb/stockBinding/stocks.xsd"/>
+    <system systemId="http://localhost:8080/WEB-INF/CurrencyConversionWSService?wsdl" uri="src/conf/xml-resources/web-service-references/CurrencyConversionWSService/wsdl/localhost_8080/WEB-INF/CurrencyConversionWSService.wsdl"/>
+    <system systemId="http://localhost:8080/WEB-INF/CurrencyConversionWSService?xsd=1" uri="src/conf/xml-resources/web-service-references/CurrencyConversionWSService/wsdl/localhost_8080/WEB-INF/CurrencyConversionWSService.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/CurrencyConvertor/CurrencyConversionWSService?wsdl" uri="src/conf/xml-resources/web-service-references/CurrencyConversionWSService/wsdl/localhost_8080/CurrencyConvertor/CurrencyConversionWSService.wsdl"/>
+    <system systemId="http://localhost:8080/CurrencyConvertor/CurrencyConversionWSService?xsd=1" uri="src/conf/xml-resources/web-service-references/CurrencyConversionWSService/wsdl/localhost_8080/CurrencyConvertor/CurrencyConversionWSService.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/SharesBrokeringService/getStocksService?wsdl" uri="src/conf/xml-resources/web-service-references/getStocksService/wsdl/localhost_8080/SharesBrokeringService/getStocksService.wsdl"/>
+    <system systemId="http://localhost:8080/SharesBrokeringService/getStocksService?xsd=1" uri="src/conf/xml-resources/web-service-references/getStocksService/wsdl/localhost_8080/SharesBrokeringService/getStocksService.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/SharesBrokeringService/getStocksService?xsd=2" uri="src/conf/xml-resources/web-service-references/getStocksService/wsdl/localhost_8080/SharesBrokeringService/getStocksService.xsd_2.xsd"/>
+    <system systemId="file:/C:/Users/Jack/Documents/NetBeansProjects/SharesBrokeringService/src/java/SharesBrokeringService/stocks.xsd" uri="src/conf/xml-resources/jaxb/stockBinding/stocks.xsd"/>
+    <system systemId="http://localhost:8080/CurrencyConverterService/ConverterService?wsdl" uri="src/conf/xml-resources/web-service-references/ConverterService/wsdl/localhost_8080/CurrencyConverterService/ConverterService.wsdl"/>
+    <system systemId="http://localhost:8080/CurrencyConverterService/ConverterService?xsd=1" uri="src/conf/xml-resources/web-service-references/ConverterService/wsdl/localhost_8080/CurrencyConverterService/ConverterService.xsd_1.xsd"/>
+    <system systemId="http://192.168.146.1:53981/CurrencyService/ConverterService?wsdl" uri="src/conf/xml-resources/web-service-references/ConverterService/wsdl/192.168.146.1_53981/CurrencyService/ConverterService.wsdl"/>
+    <system systemId="http://192.168.146.1:53981/CurrencyService/ConverterService?xsd=1" uri="src/conf/xml-resources/web-service-references/ConverterService/wsdl/192.168.146.1_53981/CurrencyService/ConverterService.xsd_1.xsd"/>
+</catalog>

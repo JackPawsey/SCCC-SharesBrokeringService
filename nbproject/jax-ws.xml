@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jax-ws xmlns="http://www.netbeans.org/ns/jax-ws/1">
+  <services>
+    <service name="getStocksService">
+      <implementation-class>org.me.stockservice.getStocksService</implementation-class>
+    </service>
+    <service name="BuyStocks">
+      <implementation-class>org.me.stockservice.BuyStocks</implementation-class>
+    </service>
+    <service name="SellStocks">
+      <implementation-class>org.me.stockservice.SellStocks</implementation-class>
+    </service>
+    <service name="GetCurrencies">
+      <implementation-class>CurrencyConverter.GetCurrencies</implementation-class>
+    </service>
+    <service name="addStock">
+      <implementation-class>org.me.stockservice.addStock</implementation-class>
+    </service>
+    <service name="removeStock">
+      <implementation-class>org.me.stockservice.removeStock</implementation-class>
+    </service>
+  </services>
+  <clients>
+    <client name="ConverterService">
+      <wsdl-url>http://192.168.146.1:53981/CurrencyService/ConverterService?wsdl</wsdl-url>
+      <local-wsdl-file>192.168.146.1_53981/CurrencyService/ConverterService.wsdl</local-wsdl-file>
+      <package-name>currencyservice</package-name>
+      <catalog-file>catalog.xml</catalog-file>
+      <wsimport-options>
+        <wsimport-option>
+          <wsimport-option-name>extension</wsimport-option-name>
+          <wsimport-option-value>true</wsimport-option-value>
+        </wsimport-option>
+        <wsimport-option>
+          <wsimport-option-name>verbose</wsimport-option-name>
+          <wsimport-option-value>true</wsimport-option-value>
+        </wsimport-option>
+        <wsimport-option>
+          <wsimport-option-name>fork</wsimport-option-name>
+          <wsimport-option-value>false</wsimport-option-value>
+        </wsimport-option>
+        <wsimport-option>
+          <wsimport-option-name>wsdlLocation</wsimport-option-name>
+          <wsimport-option-value>http://192.168.146.1:53981/CurrencyService/ConverterService?wsdl</wsimport-option-value>
+        </wsimport-option>
+        <wsimport-option>
+          <wsimport-option-name>xnocompile</wsimport-option-name>
+          <wsimport-option-value>true</wsimport-option-value>
+        </wsimport-option>
+        <wsimport-option>
+          <wsimport-option-name>xendorsed</wsimport-option-name>
+          <wsimport-option-value>true</wsimport-option-value>
+        </wsimport-option>
+      </wsimport-options>
+    </client>
+  </clients>
+</jax-ws>

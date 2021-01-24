@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stocks xmlns="http://xml.netbeans.org/schema/share">
+    <stock_list>
+        <CompanyName>Apple</CompanyName>
+        <CompanySymbol>AAPL</CompanySymbol>
+        <NoAvailableShares>97</NoAvailableShares>
+        <Price>
+            <Currency>United States Dollar</Currency>
+            <Value>10</Value>
+            <LastUpdateDate>1997-10-24T03:15:15.965+01:00</LastUpdateDate>
+        </Price>
+    </stock_list>
+    <stock_list>
+        <CompanyName>Microsoft</CompanyName>
+        <CompanySymbol>MSFT</CompanySymbol>
+        <NoAvailableShares>169</NoAvailableShares>
+        <Price>
+            <Currency>United States Dollar</Currency>
+            <Value>20</Value>
+            <LastUpdateDate>1998-07-15T02:02:54.965+01:00</LastUpdateDate>
+        </Price>
+    </stock_list>
+    <stock_list>
+        <CompanyName>Intel</CompanyName>
+        <CompanySymbol>INTC</CompanySymbol>
+        <NoAvailableShares>100</NoAvailableShares>
+        <Price>
+            <Currency>United States Dollar</Currency>
+            <Value>30</Value>
+            <LastUpdateDate>1845-02-23T08:06:00.965Z</LastUpdateDate>
+        </Price>
+    </stock_list>
+    <stock_list>
+        <CompanyName>Tesla</CompanyName>
+        <CompanySymbol>TSLA</CompanySymbol>
+        <NoAvailableShares>131</NoAvailableShares>
+        <Price>
+            <Currency>United States Dollar</Currency>
+            <Value>40</Value>
+            <LastUpdateDate>1991-11-18T03:14:12.965Z</LastUpdateDate>
+        </Price>
+    </stock_list>
+    <stock_list>
+        <CompanyName>Nvidia</CompanyName>
+        <CompanySymbol>NVDA</CompanySymbol>
+        <NoAvailableShares>100</NoAvailableShares>
+        <Price>
+            <Currency>United States Dollar</Currency>
+            <Value>50</Value>
+            <LastUpdateDate>2077-07-21T09:32:43.965+01:00</LastUpdateDate>
+        </Price>
+    </stock_list>
+    <stock_list>
+        <CompanyName>Advanced Micro Devices</CompanyName>
+        <CompanySymbol>AMD</CompanySymbol>
+        <NoAvailableShares>100</NoAvailableShares>
+        <Price>
+            <Currency>United States Dollar</Currency>
+            <Value>60</Value>
+            <LastUpdateDate>2001-04-29T12:12:12.965+01:00</LastUpdateDate>
+        </Price>
+    </stock_list>
+    <stock_list>
+        <CompanyName>Google</CompanyName>
+        <CompanySymbol>GOOG</CompanySymbol>
+        <NoAvailableShares>104</NoAvailableShares>
+        <Price>
+            <Currency>United States Dollar</Currency>
+            <Value>80</Value>
+            <LastUpdateDate>2015-09-27T03:30:30.965+01:00</LastUpdateDate>
+        </Price>
+    </stock_list>
+    <stock_list>
+        <CompanyName>Amazon</CompanyName>
+        <CompanySymbol>AMZN</CompanySymbol>
+        <NoAvailableShares>88</NoAvailableShares>
+        <Price>
+            <Currency>United States Dollar</Currency>
+            <Value>90</Value>
+            <LastUpdateDate>2019-10-09T09:18:18.965+01:00</LastUpdateDate>
+        </Price>
+    </stock_list>
+    <stock_list>
+        <CompanyName>Facebook</CompanyName>
+        <CompanySymbol>FB</CompanySymbol>
+        <NoAvailableShares>666</NoAvailableShares>
+        <Price>
+            <Currency>United States Dollar</Currency>
+            <Value>274.0</Value>
+            <LastUpdateDate>2021-01-23T17:01:22.428Z</LastUpdateDate>
+        </Price>
+    </stock_list>
+    <stock_list>
+        <CompanyName>Comcast</CompanyName>
+        <CompanySymbol>CMCSA</CompanySymbol>
+        <NoAvailableShares>777</NoAvailableShares>
+        <Price>
+            <Currency>United States Dollar</Currency>
+            <Value>48.0</Value>
+            <LastUpdateDate>2021-01-23T17:07:59.996Z</LastUpdateDate>
+        </Price>
+    </stock_list>
+    <stock_list>
+        <CompanyName>Adobe</CompanyName>
+        <CompanySymbol>ADBE</CompanySymbol>
+        <NoAvailableShares>888</NoAvailableShares>
+        <Price>
+            <Currency>United States Dollar</Currency>
+            <Value>472.0</Value>
+            <LastUpdateDate>2021-01-23T17:08:28.166Z</LastUpdateDate>
+        </Price>
+    </stock_list>
+    <stock_list>
+        <CompanyName>Netflix</CompanyName>
+        <CompanySymbol>NFLX</CompanySymbol>
+        <NoAvailableShares>999</NoAvailableShares>
+        <Price>
+            <Currency>United States Dollar</Currency>
+            <Value>656.0</Value>
+            <LastUpdateDate>2021-01-23T17:09:14.927Z</LastUpdateDate>
+        </Price>
+    </stock_list>
+    <stock_list>
+        <CompanyName>Cisco</CompanyName>
+        <CompanySymbol>CSCO</CompanySymbol>
+        <NoAvailableShares>1097</NoAvailableShares>
+        <Price>
+            <Currency>United States Dollar</Currency>
+            <Value>44.0</Value>
+            <LastUpdateDate>2021-01-23T17:09:43.999Z</LastUpdateDate>
+        </Price>
+    </stock_list>
+    <stock_list>
+        <CompanyName>Pepsi</CompanyName>
+        <CompanySymbol>PEP</CompanySymbol>
+        <NoAvailableShares>1197</NoAvailableShares>
+        <Price>
+            <Currency>United States Dollar</Currency>
+            <Value>138.0</Value>
+            <LastUpdateDate>2021-01-23T17:10:44.266Z</LastUpdateDate>
+        </Price>
+    </stock_list>
+    <stock_list>
+        <CompanyName>Paypal</CompanyName>
+        <CompanySymbol>PYPL</CompanySymbol>
+        <NoAvailableShares>1200</NoAvailableShares>
+        <Price>
+            <Currency>United States Dollar</Currency>
+            <Value>252.0</Value>
+            <LastUpdateDate>2021-01-23T17:11:13.465Z</LastUpdateDate>
+        </Price>
+    </stock_list>
+    <stock_list>
+        <CompanyName>Starbucks</CompanyName>
+        <CompanySymbol>SBUX</CompanySymbol>
+        <NoAvailableShares>2121</NoAvailableShares>
+        <Price>
+            <Currency>United States Dollar</Currency>
+            <Value>103.0</Value>
+            <LastUpdateDate>2021-01-23T17:11:45.435Z</LastUpdateDate>
+        </Price>
+    </stock_list>
+    <stock_list>
+        <CompanyName>Ebay</CompanyName>
+        <CompanySymbol>EBAY</CompanySymbol>
+        <NoAvailableShares>1515</NoAvailableShares>
+        <Price>
+            <Currency>United States Dollar</Currency>
+            <Value>56.0</Value>
+            <LastUpdateDate>2021-01-23T17:12:59.645Z</LastUpdateDate>
+        </Price>
+    </stock_list>
+    <stock_list>
+        <CompanyName>Splunk</CompanyName>
+        <CompanySymbol>SPLK</CompanySymbol>
+        <NoAvailableShares>1775</NoAvailableShares>
+        <Price>
+            <Currency>United States Dollar</Currency>
+            <Value>170.0</Value>
+            <LastUpdateDate>2021-01-23T17:13:32.700Z</LastUpdateDate>
+        </Price>
+    </stock_list>
+    <stock_list>
+        <CompanyName>Seagate</CompanyName>
+        <CompanySymbol>STX</CompanySymbol>
+        <NoAvailableShares>2001</NoAvailableShares>
+        <Price>
+            <Currency>United States Dollar</Currency>
+            <Value>60.0</Value>
+            <LastUpdateDate>2021-01-23T17:14:45.847Z</LastUpdateDate>
+        </Price>
+    </stock_list>
+</stocks>
