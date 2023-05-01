@@ -10,3 +10,4 @@ The stocks are held in an .XSD schema, each stock instance has the following att
   Value  
   LastUpdateDate
  
+The service connects to the CurrencyService to retreive currency codes and conversion rates
